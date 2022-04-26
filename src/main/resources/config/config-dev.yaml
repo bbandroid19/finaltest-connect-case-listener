@@ -11,7 +11,7 @@ app-config:
   
 case-prc-api:
   # Replace with respective application hostname
-  host: "finaltest-connect-case-listener.us-e2.cloudhub.io"
+  host: "finaltest-connect-case-papi-dev.us-e2.cloudhub.io "
   port: "443"
   base-path: "/"
   response-timeout: "60000"
@@ -24,7 +24,7 @@ case-prc-api:
 # Jira System API Configurations
 jira-sys-api:
   # Replace with respective application hostname
-  host: "finaltest-connect-case-listener.us-e2.cloudhub.io"
+  host: "finaltest-connect-jira-sapi-dev.us-e2.cloudhub.io"
   port: "443"
   base-path: "/"
   response-timeout: "60000"
